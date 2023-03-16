@@ -1,0 +1,24 @@
+service: flady-card-app
+
+frameworkVersion: '3'
+
+plugins:
+ - '@hewmen/serverless-plugin-typescript'
+ - serverless-plugin-optimize
+ - serverless-offline
+ 
+provider:
+  name: aws
+  runtime: nodejs12.x
+
+package:
+  include:
+    - node_modules/**
+
+functions:
+  nestjs:
+    handler: src/lambda.handler
+    events:
+      - http:
+          method: any
+          path: /{any+}

@@ -13,9 +13,11 @@ export class GroupsService {
                 return { Id: template1.id, Name: template1.name, Words: this.parseCsv(decodeURIComponent(escape(atob(template1.text)))) };
             case '2':
                 return { Id: template2.id, Name: template2.name, Words: this.parseCsv(decodeURIComponent(escape(atob(template2.text)))) };
+            case '3':
+                    return { Id: '3', Name: 'test', Words: [] };
         }
     }
-    
+        
     parseCsv(csv: string): IWord[] {
         const rows = csv.trim().split('\n');
         return rows.map((row) => {
