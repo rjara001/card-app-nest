@@ -1,0 +1,1910 @@
+
+
+{
+    "groups": [{
+        "Id": "1",
+        "Name": "Hard List",
+        "Words": [
+            {
+                "Name": "Come along for",
+                "Value": "Acompañenos"
+            },
+            {
+                "Name": "The only catch is",
+                "Value": "Lo único si"
+            },
+            {
+                "Name": "Rule of thumb",
+                "Value": "Regla de oro"
+            },
+            {
+                "Name": "A tad over",
+                "Value": "Un poco más"
+            },
+            {
+                "Name": "Far too soon",
+                "Value": "Demasiado pronto"
+            },
+            {
+                "Name": "Caveat goes",
+                "Value": "Advertencia dice"
+            },
+            {
+                "Name": "We're at it",
+                "Value": "Estamos en eso"
+            },
+            {
+                "Name": "For more that",
+                "Value": "Por más que"
+            },
+            {
+                "Name": "Second thought",
+                "Value": "Pensándolo bien"
+            },
+            {
+                "Name": "That very hour",
+                "Value": "En ese mismo instante"
+            },
+            {
+                "Name": "Without going further.",
+                "Value": "Sin ir más lejos"
+            },
+            {
+                "Name": "Just one left",
+                "Value": "Solo queda uno"
+            },
+            {
+                "Name": "Blaze the trail",
+                "Value": "Abrir el camino"
+            },
+            {
+                "Name": "To expedite",
+                "Value": "Acelerar"
+            },
+            {
+                "Name": "It took me a while",
+                "Value": "Me tomo un rato"
+            },
+            {
+                "Name": "I find it interesting",
+                "Value": "Me parece interesante"
+            },
+            {
+                "Name": "off the grid",
+                "Value": "Fuera del mapa"
+            },
+            {
+                "Name": "Bunch of stuff",
+                "Value": "Montón de cosas"
+            },
+            {
+                "Name": "Going on",
+                "Value": "Sucediendo/pasando"
+            },
+            {
+                "Name": "I gotta do",
+                "Value": "Tengo que hacer"
+            },
+            {
+                "Name": "Would have been",
+                "Value": "Habría sido"
+            },
+            {
+                "Name": "Write down",
+                "Value": "Anotar"
+            },
+            {
+                "Name": "What has become of?",
+                "Value": "Que ha sido?"
+            },
+            {
+                "Name": "Does that work for you?",
+                "Value": "Funciona para ti?"
+            },
+            {
+                "Name": "I'm serious",
+                "Value": "En serio"
+            },
+            {
+                "Name": "gotta go",
+                "Value": "Tengo que irme"
+            },
+            {
+                "Name": "Totally unrelated",
+                "Value": "Nada que ver"
+            },
+            {
+                "Name": "It is catching on",
+                "Value": "Se está poniendo al día"
+            },
+            {
+                "Name": "cheer you up",
+                "Value": "Animarte"
+            },
+            {
+                "Name": "Get tied up",
+                "Value": "Quedar atado"
+            },
+            {
+                "Name": "You won't regret it",
+                "Value": "No te arrepentirás"
+            },
+            {
+                "Name": "Halfway",
+                "Value": "Mitad de camino"
+            },
+            {
+                "Name": "I'll make it up to you",
+                "Value": "Lo haré por ti"
+            },
+            {
+                "Name": "Pick the day",
+                "Value": "Eligir el día"
+            },
+            {
+                "Name": "Blow your mine",
+                "Value": "Volar tu cabeza"
+            },
+            {
+                "Name": "You have got to start",
+                "Value": "Tienes que empezar"
+            },
+            {
+                "Name": "Just a little furhter",
+                "Value": "Solo un poco más lejos"
+            },
+            {
+                "Name": "Couple bucks",
+                "Value": "Unos dolares"
+            },
+            {
+                "Name": "run out of",
+                "Value": "Quedar sin"
+            },
+            {
+                "Name": "He goes out the window",
+                "Value": "El sale por la ventana"
+            },
+            {
+                "Name": "Briefly",
+                "Value": "Brevemente"
+            },
+            {
+                "Name": "De facto",
+                "Value": "De facto"
+            },
+            {
+                "Name": "If i had",
+                "Value": "Si tuviera"
+            },
+            {
+                "Name": "Pain points",
+                "Value": "Puntos debiles"
+            },
+            {
+                "Name": "I can give my best try",
+                "Value": "Puedo dar mi mejor intento"
+            },
+            {
+                "Name": "I'll do my best",
+                "Value": "Haré mi mejor esfuerzo"
+            },
+            {
+                "Name": "It happens to me",
+                "Value": "Me pasa"
+            },
+            {
+                "Name": "We'll keep on",
+                "Value": "Seguiremos"
+            },
+            {
+                "Name": "Throughout",
+                "Value": "A lo largo de"
+            },
+            {
+                "Name": "Properly",
+                "Value": "Apropiadamente"
+            },
+            {
+                "Name": "We're getting close",
+                "Value": "Nos estamos acercando"
+            },
+            {
+                "Name": "I hope I was clear",
+                "Value": "Espero haber sido claro"
+            },
+            {
+                "Name": "Have you gotten..?",
+                "Value": "Has conseguido?"
+            },
+            {
+                "Name": "As per",
+                "Value": "Según"
+            },
+            {
+                "Name": "Stale items",
+                "Value": "Items obsoletos"
+            },
+            {
+                "Name": "I'm all done",
+                "Value": "Tengo todo listo"
+            },
+            {
+                "Name": "It was the one that",
+                "Value": "Fue el que"
+            },
+            {
+                "Name": "I have been working",
+                "Value": "He estado trabajando"
+            },
+            {
+                "Name": "I was working",
+                "Value": "Estuve trabajando"
+            },
+            {
+                "Name": "My friends have passed the test.",
+                "Value": "mis amigos han pasado el test"
+            },
+            {
+                "Name": "I have just fed the rabbits.",
+                "Value": "Acabo de dar de comer a los conejos"
+            },
+            {
+                "Name": "I just fed the rabbits.",
+                "Value": "Acabo de dar de comer a los conejos"
+            },
+            {
+                "Name": "He has already invited his friends.",
+                "Value": "Ya ha invitado a sus amigos"
+            },
+            {
+                "Name": "I was at the pet shop",
+                "Value": "Estuve en la tienda de mascotas"
+            },
+            {
+                "Name": "Marcus has had an accident",
+                "Value": "Marcus ha tenido un accidente"
+            },
+            {
+                "Name": "Emily has painted her room",
+                "Value": "Emily ha pintado su habitación"
+            },
+            {
+                "Name": "I have just cleaned my bike",
+                "Value": "Acabo de limpiar mi bicicleta"
+            },
+            {
+                "Name": "Has Sophie prepared the talk in history yet",
+                "Value": "Ha Sophie preparado ya la charla de historia?"
+            },
+            {
+                "Name": "Why haven't you checked the tyres yet",
+                "Value": "Por qué no has revisado los neumáticos todavía"
+            },
+            {
+                "Name": "I was looking for a book that had good reviews",
+                "Value": "Estaba buscando un libro que tuviera buenas críticas"
+            },
+            {
+                "Name": "She asked me if I had learned the new words",
+                "Value": "Ella me preguntó si había aprendido las nuevas palabras"
+            },
+            {
+                "Name": "Jack had fed his hamster before he left his house",
+                "Value": "Jack había alimentado a su hámster antes de que saliera de su casa"
+            },
+            {
+                "Name": "Jack had fed his hamster before he left his house",
+                "Value": "Jack había alimentado a su hámster antes de que saliera de su casa"
+            },
+            {
+                "Name": "It had not rained for three weeks",
+                "Value": "No había llovido durante tres semanas"
+            },
+            {
+                "Name": "It surprised me that you had gone to Peru",
+                "Value": "Me sorprendio que hubieras ido a Perú"
+            },
+            {
+                "Name": "I hoped that you had eaten",
+                "Value": "Esperaba que hubieras comido"
+            },
+            {
+                "Name": "If only he had arrived on time",
+                "Value": "Ojalá el hubiera llegado a tiempo"
+            },
+            {
+                "Name": "If only he had arrived on time",
+                "Value": "Si tan solo hubiera llegado a tiempo"
+            },
+            {
+                "Name": "If they had gone on vacation, they would have bought gifts for us",
+                "Value": "Si hubieran ido de vacaciones, nos habrían comprado regalos"
+            },
+            {
+                "Name": "I doubted that he was coming",
+                "Value": "Dudaba que el viniera"
+            },
+            {
+                "Name": "I'm looking for a book that has gotten good reviews",
+                "Value": "Busco un libro que haya obtenido buenas críticas"
+            },
+            {
+                "Name": "I am happy that you have come",
+                "Value": "Me alegro de que hayas venido"
+            },
+            {
+                "Name": "who had come with her",
+                "Value": "Quien había venido con ella"
+            },
+            {
+                "Name": "He has been working four days",
+                "Value": "Ha estado trabajando por 4 dias"
+            },
+            {
+                "Name": "Didn't I tell you",
+                "Value": "No te dije?"
+            },
+            {
+                "Name": "Didn't I tell you?",
+                "Value": "No te dije?"
+            },
+            {
+                "Name": "Keep us posted how we can wrap this up",
+                "Value": "Manténganos informados sobre cómo podemos concluir esto"
+            },
+            {
+                "Name": "wrap this up",
+                "Value": "acabar con esto"
+            },
+            {
+                "Name": "given our preference for",
+                "Value": "dada nuestra preferencia por"
+            },
+            {
+                "Name": "Anne will have repaired her bike next week",
+                "Value": "Anne habrá reparado su bicicleta la próxima semana"
+            },
+            {
+                "Name": "Do you think there is a problem in?",
+                "Value": "Crees que exista un problema en?"
+            },
+            {
+                "Name": "Is playing in",
+                "Value": "Se está produciendo"
+            },
+            {
+                "Name": "Tony hasn't been reading his book, but Mary has",
+                "Value": "Tony no ha estado leyendo su libro, pero Mary sí."
+            },
+            {
+                "Name": "the thing has gone too far",
+                "Value": "las cosas han ido demasiado lejos"
+            },
+            {
+                "Name": "I didn’t think I’d go into",
+                "Value": "no pense que entraria"
+            },
+            {
+                "Name": "What do the colors on the.. ?",
+                "Value": "Que indican los colores en..?"
+            },
+            {
+                "Name": "the card attempted to be added",
+                "Value": "la tarjeta que se intento agregar"
+            },
+            {
+                "Name": "don’t mind",
+                "Value": "no importa"
+            },
+            {
+                "Name": "What are we going to do",
+                "Value": "Que vamos a hacer"
+            },
+            {
+                "Name": "We have made some headway",
+                "Value": "Hemos hecho algunos avances"
+            },
+            {
+                "Name": "you are on your own",
+                "Value": "Estas por tu propia cuenta"
+            },
+            {
+                "Name": "Didn't they tell you?",
+                "Value": "No te lo dijeron?"
+            },
+            {
+                "Name": "Haven't they told you yet?",
+                "Value": "No te lo han dicho aún?"
+            },
+            {
+                "Name": "Have you already had lunch?",
+                "Value": "Ya almorzaste?"
+            },
+            {
+                "Name": "Have you already had lunch?",
+                "Value": "Ya almorzaste?"
+            },
+            {
+                "Name": "You don't have to do it",
+                "Value": "No tienes que hacer esto"
+            },
+            {
+                "Name": "Nobody else knows",
+                "Value": "Nadie más lo sabe"
+            },
+            {
+                "Name": "He doesn't have a pen",
+                "Value": "El no tiene un lápiz"
+            },
+            {
+                "Name": "Do you have a girlfriend?",
+                "Value": "Tienes novia?"
+            },
+            {
+                "Name": "It appear that most users have now been restored",
+                "Value": "Parece que la mayoría de los usuarios han sido restaurados"
+            },
+            {
+                "Name": "For any lingering issues, head over to",
+                "Value": "Pará cualquier problema persistente diríjase a"
+            },
+            {
+                "Name": "They offered to take us to the park",
+                "Value": "Se ofrecieron en llevarnos al parque"
+            },
+            {
+                "Name": "Yes, but none of mine are coming",
+                "Value": "Si, pero ninguno de los míos vendra"
+            },
+            {
+                "Name": "If your car has run out of fuel",
+                "Value": "Si tu auto quedó sin gasolina"
+            },
+            {
+                "Name": "It was my understanding that",
+                "Value": "Tenía entendido que"
+            },
+            {
+                "Name": "Instead of doing nothing",
+                "Value": "En vez de que este haciendo nada"
+            },
+            {
+                "Name": "What company does he work for?",
+                "Value": "Para que empresa el trabaja?"
+            },
+            {
+                "Name": "I'm not angry with at him at all",
+                "Value": "No estoy enojado con el en absoluto"
+            },
+            {
+                "Name": "If i had free time, I would play computer",
+                "Value": "Si tuviera tiempo libre jugaría al computador"
+            },
+            {
+                "Name": "I wouldnt buy this coat if i were you",
+                "Value": "No compraría este abrigo si fuera tú"
+            },
+            {
+                "Name": "You'll get usted to them",
+                "Value": "Te acostumbraras a ellos"
+            },
+            {
+                "Name": "Were you able to fix the pc?",
+                "Value": "Pudiste arreglar el pc?"
+            },
+            {
+                "Name": "My boss told me off for being late",
+                "Value": "Mi jefe me regaño por llegar tarde"
+            },
+            {
+                "Name": "This photography was taken last year",
+                "Value": "Esta foto fue tomada el año pasado"
+            },
+            {
+                "Name": "They were picked yesterday",
+                "Value": "Fueron recogidos ayer"
+            },
+            {
+                "Name": "We are going to cinema, aren't we?",
+                "Value": "Vamos al cine, no?"
+            },
+            {
+                "Name": "I have never heard of him",
+                "Value": "Nunca he escuchado de el"
+            },
+            {
+                "Name": "I couldn't even hear myself",
+                "Value": "Ni si quiera podía oírme a mi mismo"
+            },
+            {
+                "Name": "Would you mind switching off the lights please",
+                "Value": "Le importaría apagar las luces por favor"
+            },
+            {
+                "Name": "If i was a millionaire",
+                "Value": "Si fuera millonario"
+            },
+            {
+                "Name": "I would help you if you were more polite",
+                "Value": "Te ayudaría si fueras mas educado"
+            },
+            {
+                "Name": "I attribute my success to this",
+                "Value": "Atribuyo mi éxito a esto"
+            },
+            {
+                "Name": "You'll get used to this weather",
+                "Value": "Te acostumbraras a este clima"
+            },
+            {
+                "Name": "Have you had your lunch yet?",
+                "Value": "Has almorzado ya?"
+            },
+            {
+                "Name": "Has your car been fixed yet?",
+                "Value": "Ha sido reparado tu auto?"
+            },
+            {
+                "Name": "I thought you had gone",
+                "Value": "Pensé que te habías ido"
+            },
+            {
+                "Name": "I have two books, you can take etheir of them",
+                "Value": "Tengo dos libros, puedes llevarte cualquiera de ellos"
+            },
+            {
+                "Name": "Neither helen nor janie know programming",
+                "Value": "Ni helen ni janie saben de programación"
+            },
+            {
+                "Name": "Unless you tell me otherwise",
+                "Value": "A menos que me digas lo contrario"
+            },
+            {
+                "Name": "I been on hold for almost half an hour",
+                "Value": "He estado en espera durante casi media hora"
+            },
+            {
+                "Name": "Spare money",
+                "Value": "Dinero extra"
+            },
+            {
+                "Name": "Which one of you?",
+                "Value": "Quien de ustedes?"
+            },
+            {
+                "Name": "This is the third time",
+                "Value": "Esta es la tercera vez"
+            },
+            {
+                "Name": "Didn't I see you with him?",
+                "Value": "No te vi con el?"
+            },
+            {
+                "Name": "It was early moring",
+                "Value": "Era temprano en la mañana"
+            },
+            {
+                "Name": "Did either of you work?",
+                "Value": "Alguno de ustedes trabajó?"
+            },
+            {
+                "Name": "Seems to indicate otherwise",
+                "Value": "Parece indicar lo contrario"
+            },
+            {
+                "Name": "I'm going to be late",
+                "Value": "Voy a llegar tarde"
+            },
+            {
+                "Name": "How came you are so strong?",
+                "Value": "Como es que eres tan fuerte?"
+            },
+            {
+                "Name": "What are you good at?",
+                "Value": "Para que eres bueno?"
+            },
+            {
+                "Name": "If we lived in the montains",
+                "Value": "Si viviéramos en las montañas"
+            },
+            {
+                "Name": "They placed the body there",
+                "Value": "Pusieron el cuerpo ahi"
+            },
+            {
+                "Name": "There will be not loss of any",
+                "Value": "No habrá pérdida de ninguna"
+            },
+            {
+                "Name": "You're soon going to see",
+                "Value": "Pronto veras"
+            },
+            {
+                "Name": "Shortly after",
+                "Value": "Poco después"
+            },
+            {
+                "Name": "Dont hold back",
+                "Value": "No lo retengas"
+            },
+            {
+                "Name": "Even though",
+                "Value": " A pesar que / aunque"
+            },
+            {
+                "Name": "Like minded",
+                "Value": "Mentalidad similar"
+            },
+            {
+                "Name": "Have you thought of that?",
+                "Value": "Lo has pensado? / has pensado en eso? "
+            },
+            {
+                "Name": "What this is for? ",
+                "Value": "Para que sirve? "
+            },
+            {
+                "Name": "I'd rather have",
+                "Value": "Preferiría tener"
+            },
+            {
+                "Name": "To get away with",
+                "Value": "Salirse con la suya"
+            },
+            {
+                "Name": "It is typical of",
+                "Value": "Es propio de"
+            },
+            {
+                "Name": "Our will to be free is unbeatable",
+                "Value": "Nuestra voluntad de ser libres es imbatible "
+            },
+            {
+                "Name": "Are slim to none",
+                "Value": "Pocos o nulas"
+            },
+            {
+                "Name": "No worries, I'll get by",
+                "Value": "Descuida, me las arreglare"
+            },
+            {
+                "Name": "Whether you like it or not",
+                "Value": "Ya sea que te guste o no"
+            },
+            {
+                "Name": "Nothing beats a cup of coffee",
+                "Value": "Nada mejor que una taza de café"
+            },
+            {
+                "Name": "Passing away",
+                "Value": "Fallecimiento"
+            },
+            {
+                "Name": "I got confused",
+                "Value": "Me confundí"
+            },
+            {
+                "Name": "That being said",
+                "Value": "Dicho esto"
+            },
+            {
+                "Name": "I could get used to this ",
+                "Value": "Podría acostumbrarme a esto"
+            },
+            {
+                "Name": "Im getting used to the life in Barcelona",
+                "Value": "Me estoy acostumbrando a la vida en Barcelona"
+            },
+            {
+                "Name": "I was used to the life in Chile ",
+                "Value": "Estaba acostumbrado a la vida en Chile"
+            },
+            {
+                "Name": "Since there is no answer",
+                "Value": "Dado que no hay respuesta "
+            },
+            {
+                "Name": "I know that is terrible timing",
+                "Value": "Se que es mal momento"
+            },
+            {
+                "Name": "Both the kitchen and room",
+                "Value": "Tanto la cocina como la habitación"
+            },
+            {
+                "Name": "Im about to end my shift in a bit, I'll try to carry on",
+                "Value": "Estoy apuntó de terminar mi turno, interare continuar"
+            },
+            {
+                "Name": "At the very least",
+                "Value": "Por lo menos"
+            },
+            {
+                "Name": "I did this on purpose",
+                "Value": "Lo hice a propósito"
+            },
+            {
+                "Name": "Instead of fixing it I made it worse",
+                "Value": "En vez de arreglarlo lo empeore"
+            },
+            {
+                "Name": "He has passed out",
+                "Value": "Se ha desmayado"
+            },
+            {
+                "Name": "The very reason we are in this position",
+                "Value": "La misma razón por la que estamos asi"
+            },
+            {
+                "Name": "Remove them all but this one",
+                "Value": "Quitalos todos menos este"
+            },
+            {
+                "Name": "Ignore them everything except a few files",
+                "Value": "Ignora los todos menos unos pocos archivos"
+            },
+            {
+                "Name": "So, having said that",
+                "Value": "Entonces, dicho esto"
+            },
+            {
+                "Name": "He is basing his decisions on science",
+                "Value": "Esta basando sus decisiones en la ciencia "
+            },
+            {
+                "Name": "Well done mate",
+                "Value": "Bien hecho compañero"
+            },
+            {
+                "Name": "The very words of God",
+                "Value": "La mismísima palabra de Dios"
+            },
+            {
+                "Name": "We agreed that once I have finished",
+                "Value": "Acordamos que una vez yo haya finalizado"
+            },
+            {
+                "Name": "God passed over the sins commited",
+                "Value": "Dios paso por alto los pecados cometidos"
+            },
+            {
+                "Name": "Retrival program",
+                "Value": "Programa de recuperacion"
+            },
+            {
+                "Name": "Catch you later",
+                "Value": "Nos vemos luego"
+            },
+            {
+                "Name": "But mine is not just boasting.",
+                "Value": "Pero lo mio no es alarde"
+            },
+            {
+                "Name": "Uphold",
+                "Value": "Confirmar/mantener"
+            },
+            {
+                "Name": "To tear apart",
+                "Value": "Desgarrar/destrozar"
+            },
+            {
+                "Name": "Slips of paper",
+                "Value": "Tiras de papel"
+            },
+            {
+                "Name": "Endurance is the key to overcoming",
+                "Value": "La resistencia es la clave para superar"
+            },
+            {
+                "Name": "Poured out",
+                "Value": "Derramado"
+            },
+            {
+                "Name": "Why a Person Feels Helpless?",
+                "Value": "Porque una persona se siente impotente? "
+            },
+            {
+                "Name": "What they were doing was ungodly and evil",
+                "Value": "Lo que estaban haciendo era impío y maligno"
+            },
+            {
+                "Name": "Most hands have a likeness to them.",
+                "Value": "La mayoría de las manos tiene parecido entre ellas "
+            },
+            {
+                "Name": "I would rather to avoid having to change",
+                "Value": "Preferiría evitar tener que cambiar"
+            },
+            {
+                "Name": "We were naive to think we could get away with this.",
+                "Value": "Fuimos ingenuos en creer que podríamos librarnos de esto"
+            },
+            {
+                "Name": "the felon who nearly murdered Kyle ",
+                "Value": "El delincuente que casi mata a Kyle"
+            },
+            {
+                "Name": "Kari Lake has filed a lawsuit to",
+                "Value": "Kari Lake ha presentado una ley para"
+            },
+            {
+                "Name": "There are some who would not deem it wise",
+                "Value": "Hay algunos quienes no lo considerarían sabio eso"
+            },
+            {
+                "Name": "They have the need",
+                "Value": "Tienen la necesidad"
+            },
+            {
+                "Name": "The needs were covered",
+                "Value": "Las necesidades fueron cubiertas"
+            },
+            {
+                "Name": "I feel proud for have had the opportunity",
+                "Value": "Me siento orgulloso de haber tenido la oportunidad"
+            },
+            {
+                "Name": "Let no one deceive himself",
+                "Value": "Que nadie se engañe"
+            },
+            {
+                "Name": "It relies on a series of",
+                "Value": "Se basa en una serie de"
+            },
+            {
+                "Name": "Once an issue of",
+                "Value": "Una vez que un problema de"
+            },
+            {
+                "Name": "Allows behavior to be added to",
+                "Value": "Permite que un comportamiento sea agregado a"
+            },
+            {
+                "Name": "They may have minor differencies",
+                "Value": "Pueden tener pequeñas diferencias."
+            },
+            {
+                "Name": "It doesn't have a default template ",
+                "Value": "No tiene una plantilla predeterminada"
+            },
+            {
+                "Name": "as though",
+                "Value": "Como si"
+            },
+            {
+                "Name": "You yourself",
+                "Value": "Ustedes mismos"
+            },
+            {
+                "Name": "Do not be deceived",
+                "Value": "No sean engañados"
+            },
+            {
+                "Name": "End up being really time consuming",
+                "Value": "Termina siendo realmente lento"
+            },
+            {
+                "Name": "What a relief! ",
+                "Value": "¡Qué alivio!"
+            },
+            {
+                "Name": "There is no getting around this",
+                "Value": "No hay forma de evitar esto"
+            },
+            {
+                "Name": "Under the guise of",
+                "Value": "Bajo la apariencia de"
+            },
+            {
+                "Name": "I would rather be locked",
+                "Value": "prefiero estar encerrado"
+            },
+            {
+                "Name": "More or less",
+                "Value": "Más o menos"
+            },
+            {
+                "Name": "Getting started issue",
+                "Value": "Problema inicial"
+            },
+            {
+                "Name": "If things go well",
+                "Value": "Si las cosas van bien"
+            },
+            {
+                "Name": "Following the tradition",
+                "Value": "Siguiendo la tradición"
+            },
+            {
+                "Name": "you can tell they want to",
+                "Value": "puedes decir que quieren"
+            },
+            {
+                "Name": "This does nothing special",
+                "Value": "Esto no hace nada especial"
+            },
+            {
+                "Name": "First things first",
+                "Value": "Lo primero es lo primero"
+            },
+            {
+                "Name": "It with less clutter",
+                "Value": "Con menos lio"
+            },
+            {
+                "Name": "Why do i need it? ",
+                "Value": "¿Por qué lo necesito?"
+            },
+            {
+                "Name": "undergo",
+                "Value": "Someterse"
+            },
+            {
+                "Name": "Still trying to work it out",
+                "Value": "Aún estoy tratando de resolverlo"
+            },
+            {
+                "Name": "Just admit and move on.",
+                "Value": "Sólo admítelo y sigue adelante"
+            },
+            {
+                "Name": "doubled down on their efforts to ensure",
+                "Value": "redoblaron sus esfuerzos para asegurar"
+            }
+        ]},
+        {"Id": "2",
+        "Name": "Easy List",
+        "Words": [
+            {
+                "Name": "Come along for",
+                "Value": "Acompañenos"
+            },
+            {
+                "Name": "The only catch is",
+                "Value": "Lo único si"
+            },
+            {
+                "Name": "Rule of thumb",
+                "Value": "Regla de oro"
+            },
+            {
+                "Name": "A tad over",
+                "Value": "Un poco más"
+            },
+            {
+                "Name": "Far too soon",
+                "Value": "Demasiado pronto"
+            },
+            {
+                "Name": "Caveat goes",
+                "Value": "Advertencia dice"
+            },
+            {
+                "Name": "We're at it",
+                "Value": "Estamos en eso"
+            },
+            {
+                "Name": "For more that",
+                "Value": "Por más que"
+            },
+            {
+                "Name": "Second thought",
+                "Value": "Pensándolo bien"
+            },
+            {
+                "Name": "That very hour",
+                "Value": "En ese mismo instante"
+            },
+            {
+                "Name": "Without going further.",
+                "Value": "Sin ir más lejos"
+            },
+            {
+                "Name": "Just one left",
+                "Value": "Solo queda uno"
+            },
+            {
+                "Name": "Blaze the trail",
+                "Value": "Abrir el camino"
+            },
+            {
+                "Name": "To expedite",
+                "Value": "Acelerar"
+            },
+            {
+                "Name": "It took me a while",
+                "Value": "Me tomo un rato"
+            },
+            {
+                "Name": "I find it interesting",
+                "Value": "Me parece interesante"
+            },
+            {
+                "Name": "off the grid",
+                "Value": "Fuera del mapa"
+            },
+            {
+                "Name": "Bunch of stuff",
+                "Value": "Montón de cosas"
+            },
+            {
+                "Name": "Going on",
+                "Value": "Sucediendo/pasando"
+            },
+            {
+                "Name": "I gotta do",
+                "Value": "Tengo que hacer"
+            },
+            {
+                "Name": "Would have been",
+                "Value": "Habría sido"
+            },
+            {
+                "Name": "Write down",
+                "Value": "Anotar"
+            },
+            {
+                "Name": "What has become of?",
+                "Value": "Que ha sido?"
+            },
+            {
+                "Name": "Does that work for you?",
+                "Value": "Funciona para ti?"
+            },
+            {
+                "Name": "I'm serious",
+                "Value": "En serio"
+            },
+            {
+                "Name": "gotta go",
+                "Value": "Tengo que irme"
+            },
+            {
+                "Name": "Totally unrelated",
+                "Value": "Nada que ver"
+            },
+            {
+                "Name": "It is catching on",
+                "Value": "Se está poniendo al día"
+            },
+            {
+                "Name": "cheer you up",
+                "Value": "Animarte"
+            },
+            {
+                "Name": "Get tied up",
+                "Value": "Quedar atado"
+            },
+            {
+                "Name": "You won't regret it",
+                "Value": "No te arrepentirás"
+            },
+            {
+                "Name": "Halfway",
+                "Value": "Mitad de camino"
+            },
+            {
+                "Name": "I'll make it up to you",
+                "Value": "Lo haré por ti"
+            },
+            {
+                "Name": "Pick the day",
+                "Value": "Eligir el día"
+            },
+            {
+                "Name": "Blow your mine",
+                "Value": "Volar tu cabeza"
+            },
+            {
+                "Name": "You have got to start",
+                "Value": "Tienes que empezar"
+            },
+            {
+                "Name": "Just a little furhter",
+                "Value": "Solo un poco más lejos"
+            },
+            {
+                "Name": "Couple bucks",
+                "Value": "Unos dolares"
+            },
+            {
+                "Name": "run out of",
+                "Value": "Quedar sin"
+            },
+            {
+                "Name": "He goes out the window",
+                "Value": "El sale por la ventana"
+            },
+            {
+                "Name": "Briefly",
+                "Value": "Brevemente"
+            },
+            {
+                "Name": "De facto",
+                "Value": "De facto"
+            },
+            {
+                "Name": "If i had",
+                "Value": "Si tuviera"
+            },
+            {
+                "Name": "Pain points",
+                "Value": "Puntos debiles"
+            },
+            {
+                "Name": "I can give my best try",
+                "Value": "Puedo dar mi mejor intento"
+            },
+            {
+                "Name": "I'll do my best",
+                "Value": "Haré mi mejor esfuerzo"
+            },
+            {
+                "Name": "It happens to me",
+                "Value": "Me pasa"
+            },
+            {
+                "Name": "We'll keep on",
+                "Value": "Seguiremos"
+            },
+            {
+                "Name": "Throughout",
+                "Value": "A lo largo de"
+            },
+            {
+                "Name": "Properly",
+                "Value": "Apropiadamente"
+            },
+            {
+                "Name": "We're getting close",
+                "Value": "Nos estamos acercando"
+            },
+            {
+                "Name": "I hope I was clear",
+                "Value": "Espero haber sido claro"
+            },
+            {
+                "Name": "Have you gotten..?",
+                "Value": "Has conseguido?"
+            },
+            {
+                "Name": "As per",
+                "Value": "Según"
+            },
+            {
+                "Name": "Stale items",
+                "Value": "Items obsoletos"
+            },
+            {
+                "Name": "I'm all done",
+                "Value": "Tengo todo listo"
+            },
+            {
+                "Name": "It was the one that",
+                "Value": "Fue el que"
+            },
+            {
+                "Name": "I have been working",
+                "Value": "He estado trabajando"
+            },
+            {
+                "Name": "I was working",
+                "Value": "Estuve trabajando"
+            },
+            {
+                "Name": "My friends have passed the test.",
+                "Value": "mis amigos han pasado el test"
+            },
+            {
+                "Name": "I have just fed the rabbits.",
+                "Value": "Acabo de dar de comer a los conejos"
+            },
+            {
+                "Name": "I just fed the rabbits.",
+                "Value": "Acabo de dar de comer a los conejos"
+            },
+            {
+                "Name": "He has already invited his friends.",
+                "Value": "Ya ha invitado a sus amigos"
+            },
+            {
+                "Name": "I was at the pet shop",
+                "Value": "Estuve en la tienda de mascotas"
+            },
+            {
+                "Name": "Marcus has had an accident",
+                "Value": "Marcus ha tenido un accidente"
+            },
+            {
+                "Name": "Emily has painted her room",
+                "Value": "Emily ha pintado su habitación"
+            },
+            {
+                "Name": "I have just cleaned my bike",
+                "Value": "Acabo de limpiar mi bicicleta"
+            },
+            {
+                "Name": "Has Sophie prepared the talk in history yet",
+                "Value": "Ha Sophie preparado ya la charla de historia?"
+            },
+            {
+                "Name": "Why haven't you checked the tyres yet",
+                "Value": "Por qué no has revisado los neumáticos todavía"
+            },
+            {
+                "Name": "I was looking for a book that had good reviews",
+                "Value": "Estaba buscando un libro que tuviera buenas críticas"
+            },
+            {
+                "Name": "She asked me if I had learned the new words",
+                "Value": "Ella me preguntó si había aprendido las nuevas palabras"
+            },
+            {
+                "Name": "Jack had fed his hamster before he left his house",
+                "Value": "Jack había alimentado a su hámster antes de que saliera de su casa"
+            },
+            {
+                "Name": "Jack had fed his hamster before he left his house",
+                "Value": "Jack había alimentado a su hámster antes de que saliera de su casa"
+            },
+            {
+                "Name": "It had not rained for three weeks",
+                "Value": "No había llovido durante tres semanas"
+            },
+            {
+                "Name": "It surprised me that you had gone to Peru",
+                "Value": "Me sorprendio que hubieras ido a Perú"
+            },
+            {
+                "Name": "I hoped that you had eaten",
+                "Value": "Esperaba que hubieras comido"
+            },
+            {
+                "Name": "If only he had arrived on time",
+                "Value": "Ojalá el hubiera llegado a tiempo"
+            },
+            {
+                "Name": "If only he had arrived on time",
+                "Value": "Si tan solo hubiera llegado a tiempo"
+            },
+            {
+                "Name": "If they had gone on vacation, they would have bought gifts for us",
+                "Value": "Si hubieran ido de vacaciones, nos habrían comprado regalos"
+            },
+            {
+                "Name": "I doubted that he was coming",
+                "Value": "Dudaba que el viniera"
+            },
+            {
+                "Name": "I'm looking for a book that has gotten good reviews",
+                "Value": "Busco un libro que haya obtenido buenas críticas"
+            },
+            {
+                "Name": "I am happy that you have come",
+                "Value": "Me alegro de que hayas venido"
+            },
+            {
+                "Name": "who had come with her",
+                "Value": "Quien había venido con ella"
+            },
+            {
+                "Name": "He has been working four days",
+                "Value": "Ha estado trabajando por 4 dias"
+            },
+            {
+                "Name": "Didn't I tell you",
+                "Value": "No te dije?"
+            },
+            {
+                "Name": "Didn't I tell you?",
+                "Value": "No te dije?"
+            },
+            {
+                "Name": "Keep us posted how we can wrap this up",
+                "Value": "Manténganos informados sobre cómo podemos concluir esto"
+            },
+            {
+                "Name": "wrap this up",
+                "Value": "acabar con esto"
+            },
+            {
+                "Name": "given our preference for",
+                "Value": "dada nuestra preferencia por"
+            },
+            {
+                "Name": "Anne will have repaired her bike next week",
+                "Value": "Anne habrá reparado su bicicleta la próxima semana"
+            },
+            {
+                "Name": "Do you think there is a problem in?",
+                "Value": "Crees que exista un problema en?"
+            },
+            {
+                "Name": "Is playing in",
+                "Value": "Se está produciendo"
+            },
+            {
+                "Name": "Tony hasn't been reading his book, but Mary has",
+                "Value": "Tony no ha estado leyendo su libro, pero Mary sí."
+            },
+            {
+                "Name": "the thing has gone too far",
+                "Value": "las cosas han ido demasiado lejos"
+            },
+            {
+                "Name": "I didn’t think I’d go into",
+                "Value": "no pense que entraria"
+            },
+            {
+                "Name": "What do the colors on the.. ?",
+                "Value": "Que indican los colores en..?"
+            },
+            {
+                "Name": "the card attempted to be added",
+                "Value": "la tarjeta que se intento agregar"
+            },
+            {
+                "Name": "don’t mind",
+                "Value": "no importa"
+            },
+            {
+                "Name": "What are we going to do",
+                "Value": "Que vamos a hacer"
+            },
+            {
+                "Name": "We have made some headway",
+                "Value": "Hemos hecho algunos avances"
+            },
+            {
+                "Name": "you are on your own",
+                "Value": "Estas por tu propia cuenta"
+            },
+            {
+                "Name": "Didn't they tell you?",
+                "Value": "No te lo dijeron?"
+            },
+            {
+                "Name": "Haven't they told you yet?",
+                "Value": "No te lo han dicho aún?"
+            },
+            {
+                "Name": "Have you already had lunch?",
+                "Value": "Ya almorzaste?"
+            },
+            {
+                "Name": "Have you already had lunch?",
+                "Value": "Ya almorzaste?"
+            },
+            {
+                "Name": "You don't have to do it",
+                "Value": "No tienes que hacer esto"
+            },
+            {
+                "Name": "Nobody else knows",
+                "Value": "Nadie más lo sabe"
+            },
+            {
+                "Name": "He doesn't have a pen",
+                "Value": "El no tiene un lápiz"
+            },
+            {
+                "Name": "Do you have a girlfriend?",
+                "Value": "Tienes novia?"
+            },
+            {
+                "Name": "It appear that most users have now been restored",
+                "Value": "Parece que la mayoría de los usuarios han sido restaurados"
+            },
+            {
+                "Name": "For any lingering issues, head over to",
+                "Value": "Pará cualquier problema persistente diríjase a"
+            },
+            {
+                "Name": "They offered to take us to the park",
+                "Value": "Se ofrecieron en llevarnos al parque"
+            },
+            {
+                "Name": "Yes, but none of mine are coming",
+                "Value": "Si, pero ninguno de los míos vendra"
+            },
+            {
+                "Name": "If your car has run out of fuel",
+                "Value": "Si tu auto quedó sin gasolina"
+            },
+            {
+                "Name": "It was my understanding that",
+                "Value": "Tenía entendido que"
+            },
+            {
+                "Name": "Instead of doing nothing",
+                "Value": "En vez de que este haciendo nada"
+            },
+            {
+                "Name": "What company does he work for?",
+                "Value": "Para que empresa el trabaja?"
+            },
+            {
+                "Name": "I'm not angry with at him at all",
+                "Value": "No estoy enojado con el en absoluto"
+            },
+            {
+                "Name": "If i had free time, I would play computer",
+                "Value": "Si tuviera tiempo libre jugaría al computador"
+            },
+            {
+                "Name": "I wouldnt buy this coat if i were you",
+                "Value": "No compraría este abrigo si fuera tú"
+            },
+            {
+                "Name": "You'll get usted to them",
+                "Value": "Te acostumbraras a ellos"
+            },
+            {
+                "Name": "Were you able to fix the pc?",
+                "Value": "Pudiste arreglar el pc?"
+            },
+            {
+                "Name": "My boss told me off for being late",
+                "Value": "Mi jefe me regaño por llegar tarde"
+            },
+            {
+                "Name": "This photography was taken last year",
+                "Value": "Esta foto fue tomada el año pasado"
+            },
+            {
+                "Name": "They were picked yesterday",
+                "Value": "Fueron recogidos ayer"
+            },
+            {
+                "Name": "We are going to cinema, aren't we?",
+                "Value": "Vamos al cine, no?"
+            },
+            {
+                "Name": "I have never heard of him",
+                "Value": "Nunca he escuchado de el"
+            },
+            {
+                "Name": "I couldn't even hear myself",
+                "Value": "Ni si quiera podía oírme a mi mismo"
+            },
+            {
+                "Name": "Would you mind switching off the lights please",
+                "Value": "Le importaría apagar las luces por favor"
+            },
+            {
+                "Name": "If i was a millionaire",
+                "Value": "Si fuera millonario"
+            },
+            {
+                "Name": "I would help you if you were more polite",
+                "Value": "Te ayudaría si fueras mas educado"
+            },
+            {
+                "Name": "I attribute my success to this",
+                "Value": "Atribuyo mi éxito a esto"
+            },
+            {
+                "Name": "You'll get used to this weather",
+                "Value": "Te acostumbraras a este clima"
+            },
+            {
+                "Name": "Have you had your lunch yet?",
+                "Value": "Has almorzado ya?"
+            },
+            {
+                "Name": "Has your car been fixed yet?",
+                "Value": "Ha sido reparado tu auto?"
+            },
+            {
+                "Name": "I thought you had gone",
+                "Value": "Pensé que te habías ido"
+            },
+            {
+                "Name": "I have two books, you can take etheir of them",
+                "Value": "Tengo dos libros, puedes llevarte cualquiera de ellos"
+            },
+            {
+                "Name": "Neither helen nor janie know programming",
+                "Value": "Ni helen ni janie saben de programación"
+            },
+            {
+                "Name": "Unless you tell me otherwise",
+                "Value": "A menos que me digas lo contrario"
+            },
+            {
+                "Name": "I been on hold for almost half an hour",
+                "Value": "He estado en espera durante casi media hora"
+            },
+            {
+                "Name": "Spare money",
+                "Value": "Dinero extra"
+            },
+            {
+                "Name": "Which one of you?",
+                "Value": "Quien de ustedes?"
+            },
+            {
+                "Name": "This is the third time",
+                "Value": "Esta es la tercera vez"
+            },
+            {
+                "Name": "Didn't I see you with him?",
+                "Value": "No te vi con el?"
+            },
+            {
+                "Name": "It was early moring",
+                "Value": "Era temprano en la mañana"
+            },
+            {
+                "Name": "Did either of you work?",
+                "Value": "Alguno de ustedes trabajó?"
+            },
+            {
+                "Name": "Seems to indicate otherwise",
+                "Value": "Parece indicar lo contrario"
+            },
+            {
+                "Name": "I'm going to be late",
+                "Value": "Voy a llegar tarde"
+            },
+            {
+                "Name": "How came you are so strong?",
+                "Value": "Como es que eres tan fuerte?"
+            },
+            {
+                "Name": "What are you good at?",
+                "Value": "Para que eres bueno?"
+            },
+            {
+                "Name": "If we lived in the montains",
+                "Value": "Si viviéramos en las montañas"
+            },
+            {
+                "Name": "They placed the body there",
+                "Value": "Pusieron el cuerpo ahi"
+            },
+            {
+                "Name": "There will be not loss of any",
+                "Value": "No habrá pérdida de ninguna"
+            },
+            {
+                "Name": "You're soon going to see",
+                "Value": "Pronto veras"
+            },
+            {
+                "Name": "Shortly after",
+                "Value": "Poco después"
+            },
+            {
+                "Name": "Dont hold back",
+                "Value": "No lo retengas"
+            },
+            {
+                "Name": "Even though",
+                "Value": " A pesar que / aunque"
+            },
+            {
+                "Name": "Like minded",
+                "Value": "Mentalidad similar"
+            },
+            {
+                "Name": "Have you thought of that?",
+                "Value": "Lo has pensado? / has pensado en eso? "
+            },
+            {
+                "Name": "What this is for? ",
+                "Value": "Para que sirve? "
+            },
+            {
+                "Name": "I'd rather have",
+                "Value": "Preferiría tener"
+            },
+            {
+                "Name": "To get away with",
+                "Value": "Salirse con la suya"
+            },
+            {
+                "Name": "It is typical of",
+                "Value": "Es propio de"
+            },
+            {
+                "Name": "Our will to be free is unbeatable",
+                "Value": "Nuestra voluntad de ser libres es imbatible "
+            },
+            {
+                "Name": "Are slim to none",
+                "Value": "Pocos o nulas"
+            },
+            {
+                "Name": "No worries, I'll get by",
+                "Value": "Descuida, me las arreglare"
+            },
+            {
+                "Name": "Whether you like it or not",
+                "Value": "Ya sea que te guste o no"
+            },
+            {
+                "Name": "Nothing beats a cup of coffee",
+                "Value": "Nada mejor que una taza de café"
+            },
+            {
+                "Name": "Passing away",
+                "Value": "Fallecimiento"
+            },
+            {
+                "Name": "I got confused",
+                "Value": "Me confundí"
+            },
+            {
+                "Name": "That being said",
+                "Value": "Dicho esto"
+            },
+            {
+                "Name": "I could get used to this ",
+                "Value": "Podría acostumbrarme a esto"
+            },
+            {
+                "Name": "Im getting used to the life in Barcelona",
+                "Value": "Me estoy acostumbrando a la vida en Barcelona"
+            },
+            {
+                "Name": "I was used to the life in Chile ",
+                "Value": "Estaba acostumbrado a la vida en Chile"
+            },
+            {
+                "Name": "Since there is no answer",
+                "Value": "Dado que no hay respuesta "
+            },
+            {
+                "Name": "I know that is terrible timing",
+                "Value": "Se que es mal momento"
+            },
+            {
+                "Name": "Both the kitchen and room",
+                "Value": "Tanto la cocina como la habitación"
+            },
+            {
+                "Name": "Im about to end my shift in a bit, I'll try to carry on",
+                "Value": "Estoy apuntó de terminar mi turno, interare continuar"
+            },
+            {
+                "Name": "At the very least",
+                "Value": "Por lo menos"
+            },
+            {
+                "Name": "I did this on purpose",
+                "Value": "Lo hice a propósito"
+            },
+            {
+                "Name": "Instead of fixing it I made it worse",
+                "Value": "En vez de arreglarlo lo empeore"
+            },
+            {
+                "Name": "He has passed out",
+                "Value": "Se ha desmayado"
+            },
+            {
+                "Name": "The very reason we are in this position",
+                "Value": "La misma razón por la que estamos asi"
+            },
+            {
+                "Name": "Remove them all but this one",
+                "Value": "Quitalos todos menos este"
+            },
+            {
+                "Name": "Ignore them everything except a few files",
+                "Value": "Ignora los todos menos unos pocos archivos"
+            },
+            {
+                "Name": "So, having said that",
+                "Value": "Entonces, dicho esto"
+            },
+            {
+                "Name": "He is basing his decisions on science",
+                "Value": "Esta basando sus decisiones en la ciencia "
+            },
+            {
+                "Name": "Well done mate",
+                "Value": "Bien hecho compañero"
+            },
+            {
+                "Name": "The very words of God",
+                "Value": "La mismísima palabra de Dios"
+            },
+            {
+                "Name": "We agreed that once I have finished",
+                "Value": "Acordamos que una vez yo haya finalizado"
+            },
+            {
+                "Name": "God passed over the sins commited",
+                "Value": "Dios paso por alto los pecados cometidos"
+            },
+            {
+                "Name": "Retrival program",
+                "Value": "Programa de recuperacion"
+            },
+            {
+                "Name": "Catch you later",
+                "Value": "Nos vemos luego"
+            },
+            {
+                "Name": "But mine is not just boasting.",
+                "Value": "Pero lo mio no es alarde"
+            },
+            {
+                "Name": "Uphold",
+                "Value": "Confirmar/mantener"
+            },
+            {
+                "Name": "To tear apart",
+                "Value": "Desgarrar/destrozar"
+            },
+            {
+                "Name": "Slips of paper",
+                "Value": "Tiras de papel"
+            },
+            {
+                "Name": "Endurance is the key to overcoming",
+                "Value": "La resistencia es la clave para superar"
+            },
+            {
+                "Name": "Poured out",
+                "Value": "Derramado"
+            },
+            {
+                "Name": "Why a Person Feels Helpless?",
+                "Value": "Porque una persona se siente impotente? "
+            },
+            {
+                "Name": "What they were doing was ungodly and evil",
+                "Value": "Lo que estaban haciendo era impío y maligno"
+            },
+            {
+                "Name": "Most hands have a likeness to them.",
+                "Value": "La mayoría de las manos tiene parecido entre ellas "
+            },
+            {
+                "Name": "I would rather to avoid having to change",
+                "Value": "Preferiría evitar tener que cambiar"
+            },
+            {
+                "Name": "We were naive to think we could get away with this.",
+                "Value": "Fuimos ingenuos en creer que podríamos librarnos de esto"
+            },
+            {
+                "Name": "the felon who nearly murdered Kyle ",
+                "Value": "El delincuente que casi mata a Kyle"
+            },
+            {
+                "Name": "Kari Lake has filed a lawsuit to",
+                "Value": "Kari Lake ha presentado una ley para"
+            },
+            {
+                "Name": "There are some who would not deem it wise",
+                "Value": "Hay algunos quienes no lo considerarían sabio eso"
+            },
+            {
+                "Name": "They have the need",
+                "Value": "Tienen la necesidad"
+            },
+            {
+                "Name": "The needs were covered",
+                "Value": "Las necesidades fueron cubiertas"
+            },
+            {
+                "Name": "I feel proud for have had the opportunity",
+                "Value": "Me siento orgulloso de haber tenido la oportunidad"
+            },
+            {
+                "Name": "Let no one deceive himself",
+                "Value": "Que nadie se engañe"
+            },
+            {
+                "Name": "It relies on a series of",
+                "Value": "Se basa en una serie de"
+            },
+            {
+                "Name": "Once an issue of",
+                "Value": "Una vez que un problema de"
+            },
+            {
+                "Name": "Allows behavior to be added to",
+                "Value": "Permite que un comportamiento sea agregado a"
+            },
+            {
+                "Name": "They may have minor differencies",
+                "Value": "Pueden tener pequeñas diferencias."
+            },
+            {
+                "Name": "It doesn't have a default template ",
+                "Value": "No tiene una plantilla predeterminada"
+            },
+            {
+                "Name": "as though",
+                "Value": "Como si"
+            },
+            {
+                "Name": "You yourself",
+                "Value": "Ustedes mismos"
+            },
+            {
+                "Name": "Do not be deceived",
+                "Value": "No sean engañados"
+            },
+            {
+                "Name": "End up being really time consuming",
+                "Value": "Termina siendo realmente lento"
+            },
+            {
+                "Name": "What a relief! ",
+                "Value": "¡Qué alivio!"
+            },
+            {
+                "Name": "There is no getting around this",
+                "Value": "No hay forma de evitar esto"
+            },
+            {
+                "Name": "Under the guise of",
+                "Value": "Bajo la apariencia de"
+            },
+            {
+                "Name": "I would rather be locked",
+                "Value": "prefiero estar encerrado"
+            },
+            {
+                "Name": "More or less",
+                "Value": "Más o menos"
+            },
+            {
+                "Name": "Getting started issue",
+                "Value": "Problema inicial"
+            },
+            {
+                "Name": "If things go well",
+                "Value": "Si las cosas van bien"
+            },
+            {
+                "Name": "Following the tradition",
+                "Value": "Siguiendo la tradición"
+            },
+            {
+                "Name": "you can tell they want to",
+                "Value": "puedes decir que quieren"
+            },
+            {
+                "Name": "This does nothing special",
+                "Value": "Esto no hace nada especial"
+            },
+            {
+                "Name": "First things first",
+                "Value": "Lo primero es lo primero"
+            },
+            {
+                "Name": "It with less clutter",
+                "Value": "Con menos lio"
+            },
+            {
+                "Name": "Why do i need it? ",
+                "Value": "¿Por qué lo necesito?"
+            },
+            {
+                "Name": "undergo",
+                "Value": "Someterse"
+            },
+            {
+                "Name": "Still trying to work it out",
+                "Value": "Aún estoy tratando de resolverlo"
+            },
+            {
+                "Name": "Just admit and move on.",
+                "Value": "Sólo admítelo y sigue adelante"
+            },
+            {
+                "Name": "doubled down on their efforts to ensure",
+                "Value": "redoblaron sus esfuerzos para asegurar"
+            }
+        ]}
+    ]
+}
