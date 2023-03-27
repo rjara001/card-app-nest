@@ -9,11 +9,13 @@ export class GroupsController {
     constructor(private readonly groupService: GroupsService) {}
 
     @Get()
-    getList(@Param('id') @Optional() id?:string): IGroup[] {
-        if (id)
-            return this.groupService.getList().filter(_=>_.Id == id);
+    getUser(@Param('id') @Optional() id?:string): IGroup {
+        const user = this.groupService.getUser();
 
-        return this.groupService.getList();
+        // if (id)
+        //     user.Groups =  user.Groups.filter(_=>_.Id === id);
+        return null;
+        // return user;
     }
 
     @Post()
