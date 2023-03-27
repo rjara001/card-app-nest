@@ -17,7 +17,7 @@ const express = require('express');
 const binaryMimeTypes: string[] = [];
 
 let cachedServer: Server;
-
+let whitelist:string[] = ['localhost']
 // Create the Nest.js server and convert it into an Express.js server
 async function bootstrapServer(): Promise<Server> {
   if (!cachedServer) {
@@ -25,6 +25,16 @@ async function bootstrapServer(): Promise<Server> {
      const nestApp = await NestFactory.create(AppModule, new
 ExpressAdapter(expressApp))
      nestApp.use(eventContext());
+     nestApp.enableCors({
+      origin: function (origin, callback) {
+        // if (!origin || whitelist.indexOf(origin) !== -1) {
+        //   callback(null, true)
+        // } else {
+        //   callback(new Error('Not allowed by CORS'))
+        // }
+          callback(null, true);
+      },
+    });
      await nestApp.init();
      cachedServer = createServer(expressApp, undefined,
 binaryMimeTypes);

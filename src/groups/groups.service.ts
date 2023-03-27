@@ -5,6 +5,9 @@ import * as groups from '../Resources/groups.json'
 
 @Injectable()
 export class GroupsService {
+    save(group: IGroup): any {
+      
+    }
    
     getList(): IGroup[] {
        return groups.groups;
