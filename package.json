@@ -8,6 +8,7 @@
   "scripts": {
     "build": "nest build",
     "deploy-aws": "sls deploy",
+    "start:debug-aws": "sls offline start",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
     "start:dev": "nest start --watch",

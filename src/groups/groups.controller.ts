@@ -14,7 +14,7 @@ export class GroupsController {
 
         // if (id)
         //     user.Groups =  user.Groups.filter(_=>_.Id === id);
-        return null;
+        return {Id:"paso", Name: "papa", Words:""};
         // return user;
     }
 

@@ -1,5 +1,5 @@
 
-import { Body, Controller, Get, Param, Post } from '@nestjs/common';
+import { Body, Controller, Get, Param, Post, Put } from '@nestjs/common';
 import { UserService } from './user.service';
 import { IUser } from '../interfaces/IUser';
 
@@ -9,6 +9,7 @@ export class UserController {
 
     @Get()
     async getUser(@Param('id') id:string): Promise<IUser> {
+
         const user = await this.userService.getUser(id);
 
         return user;
@@ -21,4 +22,10 @@ export class UserController {
 
     }
     
+    @Put()
+    Put(@Body() body: IUser): void {
+        if (body)
+            this.userService.update(body);
+
+    }
 }

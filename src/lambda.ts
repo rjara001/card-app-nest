@@ -48,6 +48,7 @@ global.Blob = require('node-blob');
 
 // Export the handler : the entry point of the Lambda function
 export const handler: Handler = async (event: any, context: Context) => {
+
   cachedServer = await bootstrapServer();
   return proxy(cachedServer, event, context, 'PROMISE').promise;
 }
