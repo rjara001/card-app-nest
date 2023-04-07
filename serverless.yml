@@ -3,15 +3,16 @@ service: flady-card-app-service
 frameworkVersion: '3'
 
 plugins:
- - '@hewmen/serverless-plugin-typescript'
- - serverless-plugin-optimize
- - serverless-offline
+  - serverless-dotenv-plugin
+  - serverless-offline
+  - '@kingdarboja/serverless-plugin-typescript'
+  - serverless-plugin-common-excludes
  
 provider:
   name: aws
-  runtime: nodejs14.x
+  runtime: nodejs16.x
 
-package:
+package:  
   include:
     - node_modules/**
 

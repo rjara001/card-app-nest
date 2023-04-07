@@ -7,11 +7,13 @@ import * as groups from '../Resources/groups.json'
 @Injectable()
 export class UserService {
     async update(user: IUser): Promise<any> {
+        console.log('put2');
         await updateUser(user);
         console.log('updated ok');
     }
 
     async save(user: IUser): Promise<any> {
+        console.log('post2');
         await saveUser(user);
         console.log('created ok');
     }

@@ -17,15 +17,32 @@ export class UserController {
 
     @Post()
     Post(@Body() body: IUser): void {
-        if (body)
-            this.userService.save(body);
+        console.log('post user');
+        console.log(JSON.stringify(body));
 
+
+            try {
+                if (body)
+                    this.userService.save(body);
+                console.log('put1');
+            } catch (error) {
+                console.log(error);
+            }
     }
     
     @Put()
     Put(@Body() body: IUser): void {
-        if (body)
-            this.userService.update(body);
+        console.log('put user');
+        console.log(JSON.stringify(body));
+        
+        try {
+            if (body)
+                this.userService.update(body);
+            console.log('put1');
+        } catch (error) {
+            console.log(error);
+        }
+
 
     }
 }

@@ -7,6 +7,7 @@ import { eventContext } from 'aws-serverless-express/middleware';
 import { NestFactory } from '@nestjs/core';
 import { ExpressAdapter } from '@nestjs/platform-express';
 import { AppModule } from './app.module';
+import { config } from 'aws-sdk/global';
 
 const express = require('express');
 
@@ -48,7 +49,14 @@ global.Blob = require('node-blob');
 
 // Export the handler : the entry point of the Lambda function
 export const handler: Handler = async (event: any, context: Context) => {
+  console.log('Initial Entry 3')
 
+  config.update({
+    accessKeyId: process.env.DYNAMO_ACCESS_KEY_ID,
+    secretAccessKey: process.env.DYNAMO_SECRET_ACCESS_KEY,
+    region: process.env.DYNAMO_REGION
+  });
+  
   cachedServer = await bootstrapServer();
   return proxy(cachedServer, event, context, 'PROMISE').promise;
 }
