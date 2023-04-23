@@ -9,9 +9,9 @@ export class UserController {
 
     @Get()
     async getUser(@Param('id') id:string): Promise<IUser> {
-
+        console.log('get user');
         const user = await this.userService.getUser(id);
-
+        console.log('got user:' + JSON.stringify(user));
         return user;
     }
 
