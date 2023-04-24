@@ -9,7 +9,7 @@ import * as path from 'path';
 export class TemplateService {
 
     async getTemplate(id: string): Promise<string> {
-        const filePath: string = path.join(__dirname, 'src/Resources/template.html');
+        const filePath: string = path.join(__dirname, '../../src/Resources/template.html');
 
         const fileContent: string = fs.readFileSync(filePath, 'utf8');
         return fileContent;

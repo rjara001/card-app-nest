@@ -1,3 +1,4 @@
+import { GROUP_NAME_BAG_TRANSLATE } from 'src/constants';
 import { IUser } from './../interfaces/IUser';
 import { Injectable } from '@nestjs/common';
 import { IWord } from 'src/interfaces/IWord';
@@ -12,7 +13,7 @@ export class WordService {
     async save(id: string, word: IWord): Promise<any> {
         let user = await this.userService.getUser(id) as IUser;
 
-        let group = user.Groups.find(_ => _.Name === '__BagTranslate');
+        let group = user.Groups.find(_ => _.Name === GROUP_NAME_BAG_TRANSLATE);
 
         if (group===undefined)
             throw Error('Group __BagTranlate not exist');
@@ -23,7 +24,7 @@ export class WordService {
 
         group.Words = jsonToCsv(words);
 
-        user.Groups = user.Groups.filter(_ => _.Name !== '__BagTranlate');
+        user.Groups = user.Groups.filter(_ => _.Name !== GROUP_NAME_BAG_TRANSLATE);
 
         user.Groups.push(group);
 
