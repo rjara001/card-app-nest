@@ -14,19 +14,24 @@ import { WordController } from './word/word.controller';
 import { TemplateController } from './template/template.controller';
 import { UserModule } from './users/user.module';
 import { TemplateService } from './template/template.service';
+import { GroupTemplateModule } from './group-template/group-template.module';
+import { GroupTemplateService } from './group-template/group-template.service.js';
+import { GroupTemplateController } from './group-template/group-template.controller.js';
 
 @Module({
-  imports: [ConfigModule.forRoot(), TemplateModule, TranslateModule, WordModule],
+  imports: [ConfigModule.forRoot(), TemplateModule, TranslateModule, WordModule, GroupTemplateModule],
   controllers: [
     UserController,
     WordController,
-    TemplateController
+    TemplateController,
+    GroupTemplateController
     // GroupsController
   ],
   providers: [
     UserService
     , WordService
     , TemplateService
+    , GroupTemplateService
     // , GroupsService
   ],
 })

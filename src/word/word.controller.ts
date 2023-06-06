@@ -1,4 +1,4 @@
-import { Controller, Post, Param, Body} from '@nestjs/common';
+import { Controller, Post, Param, Body, Get} from '@nestjs/common';
 import { WordService } from './word.service';
 import { IWord } from 'src/interfaces/IWord';
 

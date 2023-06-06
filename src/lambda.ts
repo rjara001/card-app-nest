@@ -8,6 +8,7 @@ import { NestFactory } from '@nestjs/core';
 import { ExpressAdapter } from '@nestjs/platform-express';
 import { AppModule } from './app.module';
 import { config } from 'aws-sdk/global';
+import bodyParser from 'body-parser';
 
 const express = require('express');
 
@@ -18,27 +19,32 @@ const express = require('express');
 const binaryMimeTypes: string[] = [];
 
 let cachedServer: Server;
-let whitelist:string[] = ['localhost']
+let whitelist: string[] = ['localhost']
 // Create the Nest.js server and convert it into an Express.js server
 async function bootstrapServer(): Promise<Server> {
   if (!cachedServer) {
-     const expressApp = express();
-     const nestApp = await NestFactory.create(AppModule, new
-ExpressAdapter(expressApp))
-     nestApp.use(eventContext());
-     nestApp.enableCors({
+    const expressApp = express();
+    const nestApp = await NestFactory.create(AppModule, new
+      ExpressAdapter(expressApp))
+    nestApp.use(eventContext());
+    nestApp.enableCors({
       origin: function (origin, callback) {
         // if (!origin || whitelist.indexOf(origin) !== -1) {
         //   callback(null, true)
         // } else {
         //   callback(new Error('Not allowed by CORS'))
         // }
-          callback(null, true);
+        callback(null, true);
       },
     });
-     await nestApp.init();
-     cachedServer = createServer(expressApp, undefined,
-binaryMimeTypes);
+
+    nestApp.use(bodyParser.json({ limit: '10mb' }));
+    nestApp.use(bodyParser.urlencoded({ limit: '10mb', extended: true }));
+
+
+    await nestApp.init();
+    cachedServer = createServer(expressApp, undefined,
+      binaryMimeTypes);
   }
   return cachedServer;
 }
@@ -56,7 +62,7 @@ export const handler: Handler = async (event: any, context: Context) => {
     secretAccessKey: process.env.DYNAMO_SECRET_ACCESS_KEY,
     region: process.env.DYNAMO_REGION
   });
-  
+
   cachedServer = await bootstrapServer();
   return proxy(cachedServer, event, context, 'PROMISE').promise;
 }

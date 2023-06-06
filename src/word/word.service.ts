@@ -1,10 +1,9 @@
-import { GROUP_NAME_BAG_TRANSLATE } from 'src/constants';
+import { GROUP_NAME_BAG_TRANSLATE } from '../constants';
 import { IUser } from './../interfaces/IUser';
 import { Injectable } from '@nestjs/common';
-import { IWord } from 'src/interfaces/IWord';
-import { Group } from 'src/model/group';
-import { UserService } from 'src/users/user.service';
-import { jsonToCsv, parseCsv } from 'src/util';
+import { IWord } from './../interfaces/IWord';
+import { UserService } from '../users/user.service';
+import { jsonToCsv, parseCsv } from '../util';
 
 @Injectable()
 export class WordService {
@@ -28,7 +27,7 @@ export class WordService {
 
         user.Groups.push(group);
 
-        this.userService.update(user);
+        this.userService.save(user);
     }
 
 }

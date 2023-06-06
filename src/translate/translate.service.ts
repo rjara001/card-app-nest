@@ -17,9 +17,11 @@ export class TranslateService {
       content: text,
     });
 
-    const languageCode = detections.languages[0].languageCode;
+    const { languages } = detections;
 
-    return languageCode;
+    const [translateElement] = languages as any;
+
+    return translateElement.languageCode;
   }
 
   translateText = async (
@@ -29,7 +31,7 @@ export class TranslateService {
     try {
       // Creates a client
       const translationClient = new TranslationServiceClient();
-  
+
       // Construct request
       const request = {
         parent: `projects/${process.env.GOOGLE_CLOUD_PROJECT_ID}/locations/global`,
@@ -37,11 +39,16 @@ export class TranslateService {
         mimeType: 'text/plain',
         targetLanguageCode: targetLanguage,
       };
-  
+
       // Performs the translation request
       const [response] = await translationClient.translateText(request);
-  
-      return response.translations[0].translatedText;
+
+      const { translations } = response;
+
+      const [translateElement] = translations as any;
+
+      return translateElement.translatedText;
+
     } catch (error) {
       console.error(`Error while translating text: ${error}`);
       return text;

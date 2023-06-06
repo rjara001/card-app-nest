@@ -1,4 +1,4 @@
-enum StatusChange {
+export enum StatusChange {
     Created,
     Modified,
     Updated,

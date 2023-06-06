@@ -1,5 +1,5 @@
-import { IGroup } from "src/interfaces/IGroup.js";
-import { IUser } from "src/interfaces/IUser";
+import { IGroup } from "../interfaces/IGroup.js";
+import { IUser } from "../interfaces/IUser";
 
 export class User implements IUser {
     IdUser: string;

@@ -1,4 +1,5 @@
-import { IGroup } from "src/interfaces/IGroup";
+import { StatusChange } from "../interfaces/Enums.js";
+import { IGroup } from "../interfaces/IGroup";
 
 export class Group implements IGroup {
     Id: string;
