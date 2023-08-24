@@ -2,6 +2,7 @@
 import { Body, Controller, Get, Param, Post, Put } from '@nestjs/common';
 import { UserService } from './user.service';
 import { IUser } from '../interfaces/IUser';
+import { ANONYMOUS } from '../constants.js';
 
 @Controller("user/:id")
 export class UserController {
@@ -11,6 +12,9 @@ export class UserController {
     async getUser(@Param('id') id: string): Promise<IUser> {
 
         const user = await this.userService.getUser(id);
+
+        if (!user.Groups || user.Groups.length===0)
+            user.Groups = (await this.userService.getUser(ANONYMOUS)).Groups;
 
         return user;
     }
